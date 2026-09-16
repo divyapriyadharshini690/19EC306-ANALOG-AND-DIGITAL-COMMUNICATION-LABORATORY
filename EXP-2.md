@@ -20,15 +20,20 @@ Connect the output of FG to the modulation input with the proper frequency. Swit
 Connect the oscilloscope to the output of the modulator RN/RE.
 
 # BLOCK DIAGRAM:
+
 <img width="723" height="1092" alt="image" src="https://github.com/user-attachments/assets/3c5bf7f7-de6b-44de-8b17-0f0d6ed58743" />
 
 # MODEL GRAPH:
+
 <img width="515" height="946" alt="image" src="https://github.com/user-attachments/assets/57f13086-493a-4f18-b0b5-1f0e1172fe2c" />
 
 # OUTPUT GRAPH: 
 
+<img width="1129" height="1600" alt="image" src="https://github.com/user-attachments/assets/1b6fe2ca-8655-4b44-a548-44bfc40241d4" />
+
 # TABULATION:
 
+<img width="1600" height="887" alt="image" src="https://github.com/user-attachments/assets/151fb425-551e-4936-a00a-6b291fdf1874" />
 
 # RESULT:
 Thus the frequency modulation and demodulation is successfully done and the output is experimentally verified.
