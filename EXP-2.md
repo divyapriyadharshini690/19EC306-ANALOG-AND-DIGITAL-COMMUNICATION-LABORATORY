@@ -33,7 +33,8 @@ Connect the oscilloscope to the output of the modulator RN/RE.
 
 # TABULATION:
 
-<img width="1600" height="887" alt="image" src="https://github.com/user-attachments/assets/151fb425-551e-4936-a00a-6b291fdf1874" />
+<img width="1468" height="1190" alt="image" src="https://github.com/user-attachments/assets/34d7843c-f9e8-4747-8ce4-8fcfbf88cb0b" />
+
 
 # RESULT:
 Thus the frequency modulation and demodulation is successfully done and the output is experimentally verified.
