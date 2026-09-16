@@ -31,8 +31,10 @@ c)	Modulation index greater than 1
 
 # GRAPH:
 
+<img width="1169" height="1600" alt="image" src="https://github.com/user-attachments/assets/7f35d6f4-6c11-4109-b401-9696c4c81576" />
 
 # TABULATION:
+<img width="1600" height="1059" alt="image" src="https://github.com/user-attachments/assets/4956cdd3-1ecd-45ed-bfe1-31a16b81ded0" />
 
 
 # RESULT:
